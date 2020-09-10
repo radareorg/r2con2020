@@ -47,14 +47,20 @@ CTF / R2WARS / HACKATHON / other competitions
   Resources: https://www.blog.google/products/docs/slidesqa    https://youtu.be/weooOudyDuc?t=95
 
 * [ ] Setup & test OBS (here comes the good old fun)
+  
   OBS works in Win/OSx/Linux. OBS it's a universe in itself, get familiar with it:
   * [ ] Setup OBS scenes   https://obsproject.com/forum/resources
   * [ ] Setup OBS sources
   * [ ] OBS studio mode allows transitioning between scenes 
+    
     Resources: https://www.youtube.com/watch?v=AA5uMiSk2MQ&ab_channel=CreatorFundamentals
   * [ ] Prepare lightweight mp4/gif to have it handly between talks, during breaks, or in case of tech issues from speakers/delay between talks 
   * [ ] OBS guide for electro-music artists https://www.jeremydeprisco.net/blog/cosmic-stream-fest 
-  To do: test streaming to several platforms at once https://restream.io
+  * [ ] To do: test streaming to several platforms at once https://restream.io
+  
+  Lessons learned: mastering OBS is complex, things to improve: normalize audio between talks.
+  
+  To do: find out if there's a way to stream to the same youtube stream (with no changed to the url) when sharing the stream key with other people.
         
 * [ ] Meet with all humans that will present at least twice (timezone friendly) before the event to
   * [ ] Test everyones internet connection / audio setup / video setup
@@ -91,6 +97,7 @@ CTF / R2WARS / HACKATHON / other competitions
 - Be organized: set up meetings with a clear title in gcalendar, add the meeting doc in the calendar event so everyone can edit it BEFORE the meeting
 - Use document versioning on google drive and backup docs/images/resources
 - For pre-recorded videos, people can upload it to their youtube account and set it as unlisted.
+    
     Lessons learned: youtube videos set as private are only available to the uploader, request people to set videos as "unlisted" so people with the URL has access. 
 - Set up wesite DNS redirects (youtube, ctf, competitions ...) at least 1 week in advance, no need to add extra pressure to the event.
 - Use telegram anonymous polls in groups to set up meeting day/hour, to ask for ideas, to get feedback...
