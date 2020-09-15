@@ -5,11 +5,13 @@ This will mostly be internal, but sharing as a resource to everyone on the inter
 
 ## Before the event
 * [ ] Setup web with info about at least: "WHAT", "WHEN", "WHERE" (youtube/twich), "HOW" (ctf, r2wars)
-    Resources, free images: https://pixabay.com  , https://www.pexels.com 
-  * [ ] Create tg (or other communication channel) for ctf, r2wars and any other competition
+
+Resources, free images: https://pixabay.com  , https://www.pexels.com 
+* [ ] Create tg (or other communication channel) for ctf, r2wars and any other competition
 * [ ] Prepare logo for the conf and make it available in svg format in the web/shared cloud
 
 * [ ] Open CFP (3-4) months before r2con ; ask humans submitting papers for day/hour of prefference for their talk (try to make it timezone friendly)
+* [ ] Publish CFP in www.cfptime.org
 
 INFO TO COLLECT FROM SUBMISSIONS
 - Title, type (talk 30 min, talk 45 min, training 2/4/8 hours), description, notes, aditional speaker, reference links (optional)
