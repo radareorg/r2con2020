@@ -1,4 +1,7 @@
 # r2con2020
+
+r2con was an online event on 2020 due to COVID-19: this repo contains the slides from the lectures and workshops, and the list of tasks performed by the congress organizators.
+
 This will mostly be internal, but sharing as a resource to everyone on the internet and to our future-selves for the next event.
 
 ## Online conference checklist 
